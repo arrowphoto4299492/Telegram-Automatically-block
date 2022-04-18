@@ -14,8 +14,7 @@
 		"auto-block",
 		"blocker"
 	],
-	"repository": "https://github.com/kalaiyarazan/telegram-auto-blocker",
-	"website": "www.kalaiyarazan.in",
+	"repository": "https://github.com/arrowphoto4299492/Telegram-Automatically-block ",
 	"success_url": "#TODO",
 	"env": {
 		"APP_ID": {
