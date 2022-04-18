@@ -1,4 +1,8 @@
-# Telegram-Automatically-block
+# Telegram-Auto-Blocker
+
+Using this bot, any unknown user who messages you, will get reported and banned instantly!
+
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kalaiyarazan/telegram-auto-blocker/)
 
 Usage :
 
@@ -16,6 +20,6 @@ Usage :
 
 Note :
 
-    approve and disapprove can be used in groups and channels. Remaining in private only!
-    Users in whitelist can't be banned automatically
-    Refresh is used to update the contact list whenever you add a new contact. So that they can't be banned if they message you!
+1. approve and disapprove can be used in groups and channels. Remaining in private only!
+2. Users in whitelist can't be banned automatically
+3. Refresh is used to update the contact list whenever you add a new contact. So that they can't be banned if they message you!
